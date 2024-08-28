@@ -144,21 +144,21 @@ This <span class="dark">time series forecasting</span> project focused on predic
 ---
 
 
-### Airfoil Analysis
+### Airfoil Self-Noise Analysis
 _April 2023_
 
 ![Airfoil Gif](/assets/images/AirFoil.gif)
 
-A regression analysis project that explores various machine learning models to predict airfoil self-noise levels. This project involved thorough exploratory data analysis and model evaluation.
+This ML project successfully predicted airfoil self-noise levels using <span class="dark">Random Forest regression</span>. It outperformed other models like <span class="dark">GLM</span> (R²: 0.68) and <span class="dark">boosting</span> (R²: 0.70), achieving MSE of <span class="dark">0.12</span>. Key predictors identified included <span class="dark">frequency</span> and <span class="dark">suction side displacement thickness</span>. The project utilized <span class="dark">R programming</span> and leveraged techniques like <span class="dark">outlier detection</span>, <span class="dark">cross-validation</span>, and <span class="dark">feature engineering</span>.
 
-**Key Technologies**: Regression Analysis, Machine Learning, Random Forest, R Programming
+**Key Technologies**: R Programming, Regression Analysis, Machine Learning, Random Forest, 
 
 ---
 
 ### Pandas from Scratch
 _April 2023_
 
-An educational project where I re-implemented core functionalities of the Pandas library from scratch. This project deepened my understanding of data manipulation techniques and Python programming.
+An educational project where I re-implemented <span class="dark">core functionalities</span> of the <span class="dark">Pandas</span> library from <span class="dark">scratch</span>. This project deepened my understanding of <span class="dark">data manipulation</span> techniques and Python programming.
 
 **Key Technologies**: Data Manipulation, Python, Pandas
 
@@ -169,9 +169,10 @@ _November 2019 - December 2019_
 
 ![SunriseTransformers Gif](/assets/images/SunriseTransformers.gif)
 
-A full-stack development project where I built a responsive website for a client using Angular and .NET Framework. While not directly related to data science, this project showcases my versatility in software development.
+A full-stack development project where I built a <span class="dark">responsive website</span> for a client using <span class="dark">Angular</span> and <span class="dark">.NET Framework</span>. While not directly related to data science, this project showcases my versatility in software development.
+This <span class="dark">full-stack</span> development project, utilizing <span class="dark">Angular</span> and <span class="dark">.NET Framework</span>, resulted in a responsive website that increased client reach by <span class="dark">30%</span>. The website leveraged <span class="dark">Microsoft SQL Server</span> for data management, ensuring smooth data flow between the backend (.NET) and frontend (Angular). By implementing <span class="dark">TypeScript</span> for <span class="dark">API integration</span>, we achieved rapid page loading times of under <span class="dark">2 seconds</span>. The site has been <span class="dark">deployed</span> and live version is available to view.
 
-**Key Technologies**: Full-Stack Development, Microsoft SQL Server, .NET Framework, Angular
+**Key Technologies**: Full-Stack Development, Microsoft SQL Server, .NET Framework, Angular, Deployment, Hosting
 
 
 ---
