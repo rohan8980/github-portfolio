@@ -147,7 +147,7 @@ This <span class="dark">time series forecasting</span> project focused on predic
 ### Airfoil Analysis
 _April 2023_
 
-![Airfoil Gif](/assets/images/Airfoil.gif)
+![Airfoil Gif](/assets/images/AirFoil.gif)
 
 A regression analysis project that explores various machine learning models to predict airfoil self-noise levels. This project involved thorough exploratory data analysis and model evaluation.
 
