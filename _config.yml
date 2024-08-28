@@ -1,0 +1,27 @@
+title: Rohan Patel
+theme: jekyll-theme-minimal
+logo: /assets/profile/profile.jpeg
+email: patelrohan0222@gmail.com
+# show_downloads: true
+description: |
+  Data Scientist | Data Engineer
+  <span style="display: block; height: 0.5em;"></span>
+  <a href="/assets/files/Resume.pdf"                target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;"><img src="https://img.icons8.com/ios-glyphs/30/000000/download.png" alt="Resume"   style="margin: 0px; margin-left:6px; margin-right: 3px; height: 20px; width: 20px;"/> Resume   </a>
+  <a href="https://github.com/rohan8980"            target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"   alt="GitHub"   style="margin: 0px; margin-left:6px; margin-right: 3px; height: 20px; width: 20px;"/> GitHub   </a>
+  <a href="https://www.linkedin.com/in/rohanp8980/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;"><img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn" style="margin: 0px; margin-left:6px; margin-right: 3px; height: 20px; width: 20px;"/> LinkedIn </a>
+
+# layout: default
+# show_downloads: true
+
+
+
+# platforms:
+#   - name: Resume
+#     icon: <i class="fa-solid fa-file-lines"></i>
+#     link: ./assets/files/Resume.pdf"
+#   - name: GitHub
+#     icon: <i class="fa-brands fa-github"></i>
+#     link: https://github.com/rohan8980
+#   - name: LinkedIn
+#     icon: <i class="fa-brands fa-linkedin"></i>
+#     link: https://www.linkedin.com/in/rohanp8980
