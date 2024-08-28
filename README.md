@@ -167,6 +167,8 @@ An educational project where I re-implemented core functionalities of the Pandas
 ### Sunrise Transformers <a href="https://sunrisetransformers.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/24/000000/external-link.png" alt="Live Demo" class="icon" /></a>
 _November 2019 - December 2019_
 
+![SunriseTransformers Gif](/assets/images/SunriseTransformers.gif)
+
 A full-stack development project where I built a responsive website for a client using Angular and .NET Framework. While not directly related to data science, this project showcases my versatility in software development.
 
 **Key Technologies**: Full-Stack Development, Microsoft SQL Server, .NET Framework, Angular
