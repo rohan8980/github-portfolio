@@ -110,7 +110,7 @@ A predictive modeling project aimed at <span class="dark">reducing customer chur
 
 ---
 
-### MovieLens <a href="https://github.com/rohan8980/MovieLens" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" class="icon" /></a>
+### MovieLens <a href="https://github.com/rohan8980/MovieMania" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" class="icon" /></a>
 _November 2023_
 
 ![MovieLens Gif](/assets/images/MovieLens.gif)
