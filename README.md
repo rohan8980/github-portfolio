@@ -42,6 +42,17 @@ _Ahmedabad, India | Jan'19 - Jan'22  (3 yrs 1 mo)_
 
 ## Projects
 
+### CorpFinChat AI <a href="https://github.com/rohan8980/SEC_Filing_Chatbot" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" class="icon" /></a> <a href="https://sec-filing-10k.streamlit.app/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/24/000000/external-link.png" alt="Live Demo" class="icon" /></a>  
+_December 2024_
+
+[![CorpFinChatAI Gif](/assets/images/SECFilings.gif)](https://sec-filing-10k.streamlit.app/)
+
+A financial insights chatbot that leveraging state-of-the-art natural language processing and vector search techniques. This system processes <span class="dark">SEC filings</span> (primarily 10-K reports) and answers user queries with contextually accurate and relevant responses. The project integrates a custom <span class="dark">Retrieval-Augmented Generation (RAG)</span> chain with advanced retrievers, enabling efficient <span class="dark">multi-user</span> interaction while ensuring data separation. Supports multi-year, multi-company data comparison via <span class="dark">metadata filtering</span>. Additionally, it provides <span class="dark">real-time stock price</span> updates and <span class="dark">financial news scraping</span> for enhanced insights.
+
+**Key Technologies**: Generative AI, OpenAI, Qdrant, Groq, Retrieval-Augmented Generation (RAG), Streamlit, Langchain, Selenium, Web Scraping
+
+---
+
 ### ChatPDF <a href="https://github.com/rohan8980/ChatPDF-v2.0" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" class="icon" /></a> <a href="https://chatpdfv2.streamlit.app" target="_blank"><img src="https://img.icons8.com/ios-glyphs/24/000000/external-link.png" alt="Live Demo" class="icon" /></a>  
 _August 2024_
 
@@ -77,7 +88,7 @@ An <span class="dark">end-to-end</span> recipe <span class="dark">recommendation
 
 ---
 
-### ReviewRadar <a href="https://github.com/rohan8980/RecipeRover" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" class="icon" /></a>
+### ReviewRadar <a href="https://github.com/rohan8980/ReviewRadar" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" class="icon" /></a>
 _March 2024_
 
 ![ReviewRadar Gif](/assets/images/ReviewRadar.gif)
@@ -144,14 +155,14 @@ This <span class="dark">time series forecasting</span> project focused on predic
 ---
 
 
-### Airfoil Self-Noise Analysis
+### Airfoil Self-Noise Analysis <a href="https://github.com/rohan8980/Airfoil-Self-Noise" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" class="icon" /></a>
 _April 2023_
 
 ![Airfoil Gif](/assets/images/AirFoil.gif)
 
 This ML project successfully predicted airfoil self-noise levels using <span class="dark">Random Forest regression</span>. It outperformed other models like <span class="dark">GLM</span> (R²: 0.68) and <span class="dark">boosting</span> (R²: 0.70), achieving MSE of <span class="dark">0.12</span>. Key predictors identified included <span class="dark">frequency</span> and <span class="dark">suction side displacement thickness</span>. The project utilized <span class="dark">R programming</span> and leveraged techniques like <span class="dark">outlier detection</span>, <span class="dark">cross-validation</span>, and <span class="dark">feature engineering</span>.
 
-**Key Technologies**: R Programming, Regression Analysis, Machine Learning, Random Forest, 
+**Key Technologies**: R Programming, Regression Analysis, Machine Learning, Random Forest
 
 ---
 
@@ -164,7 +175,7 @@ An educational project where I re-implemented <span class="dark">core functional
 
 ---
 
-### Sunrise Transformers <a href="https://sunrisetransformers.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/24/000000/external-link.png" alt="Live Demo" class="icon" /></a>
+### Sunrise Transformers <a href="https://github.com/Jaimin214/ShreeGanesh" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" class="icon" /></a> <a href="https://sunrisetransformers.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/24/000000/external-link.png" alt="Live Demo" class="icon" /></a>
 _November 2019 - December 2019_
 
 ![SunriseTransformers Gif](/assets/images/SunriseTransformers.gif)
